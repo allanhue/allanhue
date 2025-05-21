@@ -7,4 +7,4 @@
 💞️ I’m looking to collaborate on end to end projects, data-driven applications, and open-source contributions.
 📫 How to reach me:allanmwangi329@gmail.com
 😄 Pronouns: he/him
-⚡ Fun fact: I’ve built a few projects using Tailwind CSS and love optimizing them for performance!
+⚡ Fun fact: Always proud of programming and outdoor activities 
