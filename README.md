@@ -27,7 +27,6 @@ Looking to partner on:
 ## 📬 Get in Touch
 Let's build something great together!  
 📧 Email: [allanmwangi329@gmail.com](mailto:allanmwangi329@gmail.com)  
-💼 LinkedIn: [Your Profile Link]() *(optional but recommended)*  
 
 ## ⚡ Fun Facts
 - 🏋️‍♂️ Combine coding marathons with weightlifting sessions
