@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Allan Mwangi 
+# 👋 Hi, I'm Allan allanhue 
 
 **Full-Stack Developer | Data Science Enthusiast**  
 📍 Portfolio: [primeeport.netlify.app](https://primeeport.netlify.app/)  
