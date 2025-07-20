@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Allan allanhue 
 
-**Full-Stack Developer | Data Science Enthusiast**  
+**Software Developer | Data Science Enthusiast**  
 📍 Portfolio: [primeeport.netlify.app](https://primeeport.netlify.app/)  
 📫 Contact: [allanmwangi329@gmail.com](mailto:allanmwangi329@gmail.com)  
 
@@ -14,9 +14,9 @@
 
 ## 🛠️ Technical Toolkit
 **Frontend:** React | Tailwind CSS | JavaScript (ES6+)  
-**Backend:** Node.js | Express | FastAPI | Flask  
+**Backend:** Node.js | Express | FastAPI 
 **Data:** Python (Pandas, NumPy) | SQL | Scikit-learn  
-**DevOps:** Git | Docker | CI/CD Pipelines  
+**DevOps:** Git | CI/CD Pipelines  
 
 ## 🌱 Open for Collaboration
 Looking to partner on:
