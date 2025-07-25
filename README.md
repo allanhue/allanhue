@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Allan allanhue 
+#  Hi, I'm Allan allanhue 
 
 **Software Developer | Data Science Enthusiast**  
 📍 Portfolio: [primeeport.netlify.app](https://primeeport.netlify.app/)  
@@ -7,7 +7,7 @@
 
 > *"Talk is cheap. Show me the code."* — Linus Torvalds  
 
-## 🔥 Current Focus
+##  Current Focus
 - 🚀 Building robust back-end systems with **Node.js, FastAPI, and PostgreSQL**
 - 🧠 Exploring **database optimization** and distributed systems
 - 🤖 Bridging software engineering with **data science applications**
