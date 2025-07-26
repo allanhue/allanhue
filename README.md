@@ -2,8 +2,7 @@
 #  Hi, I'm Allan allanhue 
 
 **Software Developer | Data Science Enthusiast**  
-📍 Portfolio: [primeeport.netlify.app](https://primeeport.netlify.app/)  
-📫 Contact: [allanmwangi329@gmail.com](mailto:allanmwangi329@gmail.com)  
+📍 Portfolio: [primeeport.netlify.app](https://primeeport.netlify.app/)   
 
 > *"Talk is cheap. Show me the code."* — Linus Torvalds  
 
