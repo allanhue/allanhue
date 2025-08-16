@@ -12,9 +12,13 @@
 - 🤖 Bridging software engineering with **data science applications**
 
 ## 🛠️ Technical Toolkit
-**Frontend:** React | Tailwind CSS | JavaScript (ES6+)  
+**Frontend:** React | Tailwind CSS | JavaScript (ES6+) 
+
+--> Zoho Deluge Scripting and Zoho ecosytem developer
+
 **Backend:** Node.js | Express | FastAPI 
-**Data:** Python (Pandas, NumPy) | SQL | Scikit-learn  
+
+**Data:** Python , R | SQL | Scikit-learn (Pandas, NumPy) 
 **DevOps:** Git | CI/CD Pipelines  
 
 ##  Open for Collaboration
@@ -27,5 +31,5 @@ Looking to partner on:
 Let's build something great together!  
 
 ## ⚡ Fun Facts
-- 🏋️‍♂️Combine coding marathons with weightlifting sessions
+- 🏋️‍♂Combine coding, articles reading with bike experinces 
 - 📚 Obsessed with tech documentation and system design patterns
