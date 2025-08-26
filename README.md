@@ -1,5 +1,5 @@
 
-#  Hi, I'm Allan allanhue 
+#   <-- Hi, I'm  allanhue 
 
 **Software Developer | Data Science Enthusiast**  
  Portfolio: [primeeport.netlify.app](https://primeeport.netlify.app/)   
@@ -11,14 +11,17 @@
 - 🧠 Exploring **database optimization** and distributed systems
 - 🤖 Bridging software engineering with **data science applications**
 
-## 🛠️ Technical Toolkit
+## Technical Toolkit
+
+**Data:** Python , R | SQL | Scikit-learn (Pandas, NumPy) 
+
 **Frontend:** React | Tailwind CSS | JavaScript (ES6+) 
 
 --> Zoho Deluge Scripting and Zoho ecosytem developer
 
 **Backend:** Node.js | Express | FastAPI 
 
-**Data:** Python , R | SQL | Scikit-learn (Pandas, NumPy) 
+
 **DevOps:** Git | CI/CD Pipelines  
 
 ##  Open for Collaboration
@@ -31,5 +34,5 @@ Looking to partner on:
 Let's build something great together!  
 
 ## ⚡ Fun Facts
-- 🏋️‍♂Combine coding, articles reading with bike experinces 
+- 🏋️‍♂Combine coding, articles reading ,--> bike experinces 
 - 📚 Obsessed with tech documentation and system design patterns
