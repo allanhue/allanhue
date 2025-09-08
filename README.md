@@ -36,3 +36,5 @@ Let's build something great together!
 ## ⚡ Fun Facts
 - 🏋️‍♂Combine coding, articles reading ,--> bike experinces 
 - 📚 Obsessed with tech documentation and system design patterns
+
+-          @2025 copyright 🥇
