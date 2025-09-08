@@ -1,5 +1,5 @@
 
-#   <-- Hi, I'm  allanhue 
+#   <-- Hi, I'm  allanhue  🔭
 
 **Software Developer | Data Science Enthusiast**  
  Portfolio: [primeeport.netlify.app](https://primeeport.netlify.app/)   
