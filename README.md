@@ -1,7 +1,7 @@
 
 #   <-- Hi, I'm  allanhue  🔭
 
-**Software Developer | Data Science Enthusiast**  
+**Software Developer | Data Science Practitioner**  
  Portfolio: [primeeport.netlify.app](https://primeeport.netlify.app/)   
 
 > *"Talk is cheap. Show me the code."* — Linus Torvalds  
