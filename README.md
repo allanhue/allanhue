@@ -7,8 +7,8 @@
 > *"Talk is cheap. Show me the code."* — Linus Torvalds  
 
 ##  Current Focus
-- 🚀 Building robust back-end systems with **Node.js, FastAPI, and PostgreSQL**
-- 🧠 Exploring **database optimization** and distributed systems
+- 🚀 Building robust back-end systems with **Node.js, Python, and PostgreSQL**
+- 🧠 Exploring *database optimization  and distributed systems
 - 🤖 Bridging software engineering with **data science applications**
 
 ## Technical Toolkit
