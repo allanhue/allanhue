@@ -8,8 +8,8 @@
 > *"Talk is cheap. Show me the code."* — Linus Torvalds  
 
 ##  Current Focus
-- 🚀 Building robust back-end systems with **Node.js, Python, and PostgreSQL**
-- 🧠 Exploring *database optimization  and distributed systems
+- 🚀 Building robust back-end systems with ** Node.js, Python,  and PostgreSQL**
+- 🧠 Exploring *database optimization  and distributed systems - Pytorch 
 - 🤖 Bridging software engineering with **data science applications**
 
 
@@ -18,7 +18,7 @@
 
 ## Technical Toolkit
 
- Data: Python , R | SQL | Scikit-learn (Pandas, NumPy) 
+ Data: Python , R | SQL | Scikit-learn (Pandas, NumPy,Scikit-learn) 
 
 **Frontend:** React | Tailwind CSS | JavaScript (ES6+) 
 
