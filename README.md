@@ -12,9 +12,13 @@
 - 🧠 Exploring *database optimization  and distributed systems
 - 🤖 Bridging software engineering with **data science applications**
 
+
+- 🏋️‍♂Combine coding, articles reading ,--> bike experinces 
+- 📚 Obsessed with tech documentation and system design patterns
+
 ## Technical Toolkit
 
-**Data:** Python , R | SQL | Scikit-learn (Pandas, NumPy) 
+ Data: Python , R | SQL | Scikit-learn (Pandas, NumPy) 
 
 **Frontend:** React | Tailwind CSS | JavaScript (ES6+) 
 
@@ -32,10 +36,6 @@ Looking to partner on:
 - 🔍 **Research projects** at the intersection of software and data science
 
 ##  Get in Touch
-Let's build something great together!  
-
-## ⚡ Fun Facts
-- 🏋️‍♂Combine coding, articles reading ,--> bike experinces 
-- 📚 Obsessed with tech documentation and system design patterns
+Let's build something great together
 
 -          @2025 copyright 🥇
