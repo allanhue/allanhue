@@ -9,7 +9,7 @@
 
 ##  Current Focus
 - 🚀 Building robust back-end systems with ** Node.js, Python,  and PostgreSQL**
-- 🧠 Exploring *database optimization  and distributed systems - Pytorch 
+- 🧠 Exploring *database optimization  and distributed systems - libraries Pytorch  and Sckit-learn
 - 🤖 Bridging software engineering with **data science applications**
 
 
