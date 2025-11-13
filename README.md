@@ -3,7 +3,7 @@
 
 **Software Engineer | Data Science Practitioner | Zoho Developer
 
- Portfolio: [primeeport.netlify.app](https://primeeport.netlify.app/)   
+
 
 > *"Talk is cheap. Show me the code."* — Linus Torvalds  
 
