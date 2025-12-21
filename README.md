@@ -13,8 +13,8 @@
 -  Bridging software engineering with **data science applications**
 
 
-- 🏋️‍♂Combine coding, articles reading ,--> bike experinces 
--  Obsessed with tech documentation and system design patterns
+-  Articles obsessed.
+- tTech documentation / system design patterns
 
 ## Technical Toolkit
 
