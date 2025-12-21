@@ -8,13 +8,13 @@
 > *"Talk is cheap. Show me the code."* — Linus Torvalds  
 
 ##  Current Focus
-- 🚀 Building robust back-end systems with ** Node.js, Python,  and PostgreSQL**
-- 🧠 Exploring *database optimization  and distributed systems - libraries Pytorch  and Sckit-learn
-- 🤖 Bridging software engineering with **data science applications**
+- Building robust back-end systems with ** Node.js, Python,  and PostgreSQL**
+-  Exploring *database optimization  and distributed systems - libraries Pytorch  and Sckit-learn
+-  Bridging software engineering with **data science applications**
 
 
 - 🏋️‍♂Combine coding, articles reading ,--> bike experinces 
-- 📚 Obsessed with tech documentation and system design patterns
+-  Obsessed with tech documentation and system design patterns
 
 ## Technical Toolkit
 
@@ -31,9 +31,9 @@
 
 ##  Open for Collaboration
 Looking to partner on:
-- 📊 **Data-driven web applications**
-- 🧩 **Open-source projects** (especially developer tools)
-- 🔍 **Research projects** at the intersection of software and data science
+
+-  **Open-source projects** (especially developer tools)
+- **Research projects** at the intersection of software and data science
 
 ##  Get in Touch
 Let's build something great together
