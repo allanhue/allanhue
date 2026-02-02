@@ -1,7 +1,7 @@
 
 #   <-- Hi, I'm  allanhue  🔭
 
-**Software Engineer | Data Science Practitioner | Zoho Developer
+**Software Engineer | Data Science Practitioner | Zoho /Odoo Developer
 
 
 
