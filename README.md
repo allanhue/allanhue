@@ -35,7 +35,4 @@ Looking to partner on:
 - **Open-source projects** (especially developer tools)
 - **Research projects** at the intersection of software and data science
 
-##  Get in Touch
-Let's build something great together
-
 -          @2025 copyright 🥇
