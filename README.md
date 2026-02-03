@@ -1,7 +1,7 @@
 
-#   <-- Hi, I'm  allanhue  🔭
+#   <--   🔭
 
-**Software Engineer | Data Science Practitioner | Zoho /Odoo Developer
+**Software Engineer | Data Science Practitioner | Zoho / Odoo Developer
 
 
 
@@ -32,7 +32,7 @@
 ##  Open for Collaboration
 Looking to partner on:
 
--  **Open-source projects** (especially developer tools)
+- **Open-source projects** (especially developer tools)
 - **Research projects** at the intersection of software and data science
 
 ##  Get in Touch
