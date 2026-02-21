@@ -8,7 +8,7 @@
 > *"Talk is cheap. Show me the code."* — Linus Torvalds  
 
 ##  Current Focus
-- Building robust back-end systems with ** Node.js, Python,  and PostgreSQL**
+- Building robust back-end systems with ** Golang, Python,Nodejs  and PostgreSQL**
 -  Exploring *database optimization  and distributed systems - libraries Pytorch  and Sckit-learn
 -  Bridging software engineering with **data science applications**
 
@@ -20,11 +20,11 @@
 
  Data: Python , R | SQL | Scikit-learn (Pandas, NumPy,Scikit-learn) 
 
-**Frontend:** React | Tailwind CSS | JavaScript (ES6+) 
+**Frontend:** Typescript | Tailwind CSS 
 
 --> Zoho Deluge Scripting and Zoho ecosytem developer
 
-**Backend:** Node.js | Express | FastAPI 
+**Backend:** Golang / Node.js / FastAPI 
 
 
 **DevOps:** Git | CI/CD Pipelines  
