@@ -14,7 +14,7 @@
 
 
 -  Articles obsessed.
-- tTech documentation / system design patterns
+- Tech documentation / system design patterns
 
 ## Technical Toolkit
 
