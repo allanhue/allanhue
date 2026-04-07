@@ -9,11 +9,11 @@
 
 ##  Current Focus
 - Building robust back-end systems with ** Golang, Python,Nodejs  and PostgreSQL**
--  Exploring *database optimization  and distributed systems - libraries Pytorch  and Sckit-learn
--  Bridging software engineering with **data science applications**
+- Exploring *database optimization  and distributed systems - libraries Pytorch  and Sckit-learn
+- Bridging software engineering with **data science applications**
 
 
--  Articles obsessed.
+- Articles obsessed.
 - Tech documentation / system design patterns
 
 ## Technical Toolkit
