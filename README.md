@@ -1,7 +1,7 @@
 
 #   <--   🔭
 
-**Software Engineer | Data Science Practitioner | Zoho / Odoo Developer
+**Software Engineer | Data Science  | Zoho / Odoo Developer
 
 
 
