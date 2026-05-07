@@ -1,8 +1,8 @@
 
-#   <--   🔭  Founder @ Lantser Solutions https://lanster.vercel.app/
+#   <--   🔭  
 
+    Founder @ Lantser Solutions https://lanster.vercel.app/
 **Software Engineer | Data Science  | Zoho / Odoo Developer
-
 
 
 > *"Talk is cheap. Show me the code."* — Linus Torvalds  
