@@ -1,5 +1,5 @@
 
-#   <--   🔭
+#   <--   🔭  Founder @ Lantser Solutions https://lanster.vercel.app/
 
 **Software Engineer | Data Science  | Zoho / Odoo Developer
 
